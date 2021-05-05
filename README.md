@@ -1,4 +1,4 @@
-# ninjutsutori
+# Bujinkan-tori
 > 
 The goal of this project is to make a copy of already existing [BUJINKANTORI](http://www.bujinkantori.com/) website with some improvements in design and responsivenes.
 
