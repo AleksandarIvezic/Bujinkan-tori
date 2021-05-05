@@ -12,7 +12,7 @@ The goal of this project is to make a copy of already existing [BUJINKANTORI](ht
 
 ## Live Demo
 
-[Live Demo Link](https://shinobiwarior.github.io/ninjutsutori/)
+[Live Demo Link](https://shinobiwarior.github.io/Bujinkan-tori/)
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ To get  a local copy:
  2. Save the file and extract it in any folder you wish
  3. Find the "index.html" file in extracted file and double click on it
   
-To run it online just click on [Live Demo Link](https://shinobiwarior.github.io/Cake-Factory/)
+To run it online just click on [Live Demo Link](https://shinobiwarior.github.io/Bujinkan-tori/)
 
 ## Author
 
