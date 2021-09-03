@@ -1,6 +1,6 @@
 # Bujinkan-tori
 > 
-The goal of this project is to make a copy of already existing [BUJINKANTORI](http://www.bujinkantori.com/) website with some improvements in design and responsivenes.
+The goal of this project is to make a copy of the already existing [BUJINKANTORI](http://www.bujinkantori.com/) website with some improvements in design and responsiveness.
 
 ![screenshot](./Screenshot-NinjutsuTori.png)
 
@@ -51,4 +51,3 @@ Feel free to check the [issues page](https://github.com/ShinobiWarior/Calculator
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
